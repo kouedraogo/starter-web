@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abel Ouedraogo abel@github.com @kouedraogo 
 
 # THANKS
 
