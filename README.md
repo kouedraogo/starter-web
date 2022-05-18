@@ -2,6 +2,7 @@
 
 This repository is a simple website project for showing how Git and GitHub work.
 Adding a line for rebase Example, then more chnages from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Introduction
 This is an example to show different parts of Git repository and various commands using a web project
